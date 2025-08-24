@@ -4,4 +4,14 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1746](https://github.com/huggingface/lerobot/pull/1746#issuecomment-3218195684) in [huggingface/lerobot](https://github.com/huggingface/lerobot)
+2. 🗣 Commented on [#1730](https://github.com/huggingface/lerobot/issues/1730#issuecomment-3218195068) in [huggingface/lerobot](https://github.com/huggingface/lerobot)
+3. 🗣 Commented on [#6133](https://github.com/marimo-team/marimo/pull/6133#issuecomment-3217471383) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+4. 🔒 Closed issue [#1](https://github.com/tetsugo02/bio_machine/issues/1) in [tetsugo02/bio_machine](https://github.com/tetsugo02/bio_machine)
+5. 🗣 Commented on [#5964](https://github.com/marimo-team/marimo/issues/5964#issuecomment-3216704511) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+6. 💪 Opened PR [#6133](https://github.com/marimo-team/marimo/pull/6133) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+7. 🗣 Commented on [#6105](https://github.com/marimo-team/marimo/pull/6105#issuecomment-3211093435) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+8. 🗣 Commented on [#6105](https://github.com/marimo-team/marimo/pull/6105#issuecomment-3211090849) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+9. 🗣 Commented on [#6105](https://github.com/marimo-team/marimo/pull/6105#issuecomment-3209836053) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+10. 🗣 Commented on [#6105](https://github.com/marimo-team/marimo/pull/6105#issuecomment-3209803086) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
 <!--END_SECTION:activity-->
