@@ -18,4 +18,5 @@ jobs:
         with:
           COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
+          event_types: issues, commits, pull_requests
           COMMIT_NAME: GitHub Activity Readme
