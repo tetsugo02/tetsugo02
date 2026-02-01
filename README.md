@@ -1,8 +1,8 @@
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tetsugo02&theme=vue"/>
+  <img src="./profile-summary-card-output/0-profile-details.svg"/>
 </div>
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tetsugo02&theme="vue" />
+  <img src="./profile-summary-card-output/2-most-commit-language.svg"/>
 </div>
 
 ### :zap: Recent Activity
