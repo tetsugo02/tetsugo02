@@ -2,7 +2,7 @@
   <img src="./profile-summary-card-output/0-profile-details.svg"/>
 </div>
 <div>
-  <img src="./profile-summary-card-output/2-most-commit-language.svg"/>
+  <img src="./profile-summary-card-output/1-repos-per-language.svg"/>
 </div>
 
 ### :zap: Recent Activity
